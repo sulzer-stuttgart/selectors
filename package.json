@@ -1,0 +1,30 @@
+{
+  "name": "selectors",
+  "version": "1.0.0",
+  "description": "Testautomation with Codeceptjs - Selectors",
+  "main": "index.js",
+  "scripts": {
+    "server:install": "node_modules/selenium-standalone/bin/selenium-standalone install",
+    "server:start": "node_modules/selenium-standalone/bin/selenium-standalone start",
+    "tests": "npx codeceptjs run --steps"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sulzer-stuttgart/selectors.git"
+  },
+  "keywords": [
+    "testautomation",
+    "selectors",
+    "codeceptjs"
+  ],
+  "author": "Mustafa Masetic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sulzer-stuttgart/selectors/issues"
+  },
+  "homepage": "https://github.com/sulzer-stuttgart/selectors#readme",
+  "dependencies": {
+    "codeceptjs": "^2.6.0",
+    "selenium-standalone": "^6.17.0"
+  }
+}
