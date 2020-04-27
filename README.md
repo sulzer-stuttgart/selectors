@@ -1,6 +1,7 @@
 # Selectors
 
 # Reference
+### XML Path Language (XPath) Version 1.0: https://www.w3.org/TR/1999/REC-xpath-19991116/
 ### XML DOM https://www.w3schools.com/xml/dom_intro.asp
 ### XPath https://www.w3schools.com/xml/xpath_intro.asp
 ### Selecting nodes: https://www.w3schools.com/xml/xpath_syntax.asp
